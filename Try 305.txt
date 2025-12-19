@@ -1,0 +1,15 @@
+Kitana
+UPC: 199743269635
+Album
+URI: spotify:album:4PdedUV79U3cijsW5Mcm5N
+Link: https://open.spotify.com/album/4PdedUV79U3cijsW5Mcm5N
+
+Track:
+Kitana
+URI: spotify:track:7KpXp0NFQy3zbLzmSdKT1x
+Link: https://open.spotify.com/track/7KpXp0NFQy3zbLzmSdKT1x
+
+Artist:
+Mister Valentine
+URI: spotify:artist:6jdKUD6KF4xc6gaussDBAg
+Link: https://open.spotify.com/artist/6jdKUD6KF4xc6gaussDBAg
