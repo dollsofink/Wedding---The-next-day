@@ -1,9 +1,7 @@
 Kitana
 UPC: 199743269635
 Album
-URI: spotify:album:4PdedUV79U3cijsW5Mcm5N
-Link: https://open.spotify.com/album/4PdedUV79U3cijsW5Mcm5N
-
+URI: 
 Track:
 Kitana
 URI: spotify:track:7KpXp0NFQy3zbLzmSdKT1x
