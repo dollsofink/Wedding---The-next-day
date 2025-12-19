@@ -1,0 +1,1 @@
+(function(){var u=document.getElementById("b_content"),i=document.querySelectorAll(".b_caption"),r=document.querySelectorAll(".b_imgcap_altitle"),t,n;if(u){for(t=function(){Log&&Log.LogFilterFlare&&Log.LogFilterFlare(["captionMD"])},n=0;n<i.length;n++)i[n].addEventListener("pointerdown",t);for(n=0;n<r.length;n++)r[n].addEventListener("pointerdown",t)}})()
